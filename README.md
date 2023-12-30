@@ -4,8 +4,6 @@ I'm a passionate web developer and machine learning enthusiast with a keen inter
 
 ## 🔭 Worked On
 
-## 🔭 Currently Working On
-
 - **MentorU**: Automatic mentor-mentee assignment for seamless communication.
 - **Clinesco**: Clinic management with automated doctor assignment and appointment notifications.
 - **Garbage CAN**: Smart trash can for bio/non-bio waste segregation.
