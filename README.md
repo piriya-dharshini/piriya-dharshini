@@ -10,7 +10,7 @@ I'm a passionate web developer and machine learning enthusiast with a keen inter
 - **Hospex**: Hospital management system covering inpatients, outpatients, surgery scheduling, and appointments.
 - **Crop Disease Detection**: Utilizes CNN and contour detection for disease identification and severity assessment in crops.
 
-- ## 🔭Currently Working On
+  ## 🔭Currently Working On
 
 - **GameElevate**: Platform designed to assess and enhance badminton player performance using strategic insights and predictions for rally outcomes with LSTM+Q learning algorithms.
 
