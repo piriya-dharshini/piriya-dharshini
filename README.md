@@ -4,7 +4,7 @@ I'm a passionate web developer and machine learning enthusiast with a keen inter
 
 ## 🔭 Worked On
 
-- **MentorU**: A dynamic platform fostering connections between mentors and mentees for comprehensive skill development.
+- **MentorU**
 - **Clinesco**
 - **Garbage CAN**
 - **Hospex**
