@@ -27,7 +27,9 @@ I'm enthusiastic about collaborating on innovative projects in the realms of web
 
 - Python
 - Java
-- Oracle, MySQL
+- Oracle SQL
+- Oracle PL/SQL
+- MySQL
 - Tableau
 - HTML, CSS, JS
 - Flask
