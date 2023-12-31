@@ -8,9 +8,7 @@ I'm a passionate web developer and machine learning enthusiast with a keen inter
     MentorU is a user-friendly application that streamlines mentor-mentee communication with automated one-on-one and group meeting schedules, performance analysis,      and mentee mark collection.
 
 - **Clinesco**:
-  Clinesco is a platform facilitating online and walk-in appointments, automatic doctor assignment based on symptoms, treatment record maintenance, and efficient    
-  patient queue management.
-
+  Clinesco is a platform facilitating online and walk-in appointments, automatic doctor assignment based on symptoms, treatment record maintenance, 
 - **Garbage CAN**: Smart trash can for bio/non-bio waste segregation.
 - **Hospex**: Hospital management system covering inpatients, outpatients, surgery scheduling, and appointments.
 - **Crop Disease Detection**: Utilizes CNN and contour detection for disease identification and severity assessment in crops.
