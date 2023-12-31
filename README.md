@@ -31,7 +31,7 @@ I'm enthusiastic about collaborating on innovative projects in the realms of web
 - Oracle PL/SQL
 - MySQL
 - Tableau
-- HTML, CSS, JS
+- HTML, CSS
 - Flask
 
 ## 📫 How to Reach Me
