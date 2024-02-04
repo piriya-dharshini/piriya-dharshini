@@ -46,4 +46,4 @@ She/Her
 
 Let's connect, collaborate, and together, let's make amazing things happen! 🚀
 
-![](https://komarev.com/ghpvc/?piriya-dharshini)
+![](https://komarev.com/ghpvc/?piriya-dharshini&abbreviated=true)
