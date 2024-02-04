@@ -1,4 +1,5 @@
 # Hi there, I'm Piriyadharshini.A! 👋
+![](https://komarev.com/ghpvc/?username=piriya-dharshini&color=green)
 
 I'm a passionate web developer and machine learning enthusiast with a keen interest in unraveling the intricacies of system design. I possess a robust skill set, including proficiency in various programming languages and technologies.
 
@@ -46,4 +47,4 @@ She/Her
 
 Let's connect, collaborate, and together, let's make amazing things happen! 🚀
 
-![](https://komarev.com/ghpvc/piriya-dharshini&abbreviated=true)
+
