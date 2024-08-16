@@ -5,18 +5,28 @@ I'm a passionate web developer and machine learning enthusiast with a keen inter
 
 ## 🔭 Worked On
 
+
+-**Abnormal Sitting Posture Recognition using Skeletal Framework**:
+    Developed a real-time abnormal sitting posture recognizer using CNN with OpenPose-extracted skeletal features,
+achieving 92% accuracy.
+-**Result Analysis & Evaluation Tool**:
+    Created an automated result analysis tool for the IT department of SSN that delivers summary reports, grade
+analysis, overall performance metrics, and NBA statistics from raw data provided.
+-**Crop Disease Detection & Disease Severity Identification**:
+    Implemented a CNN-based model for crop disease classification with an accuracy of 94% and applied contour
+analysis to quantify disease spread percentage.
 - **MentorU**:
     MentorU is a user-friendly application that streamlines mentor-mentee communication with automated one-on-one and group meeting schedules, performance analysis,      and mentee mark collection.
-
-- **Clinesco**:
-  Clinesco is a platform facilitating online and walk-in appointments, automatic doctor assignment based on symptoms, treatment record maintenance, 
 - **Garbage CAN**: Smart trash can for bio/non-bio waste segregation.
-- **Hospex**: Hospital management system covering inpatients, outpatients, surgery scheduling, and appointments.
-- **Crop Disease Detection**: Utilizes CNN and contour detection for disease identification and severity assessment in crops.
+- **Integrated Clinic Management System (ICMS)**: Hospital management system covering inpatients, outpatients, surgery scheduling, and appointments.
+    Developed and deployed a clinic management system that manages online appointment booking (Trees),
+    automatically assigns doctors based on patient symptoms (Expert System using graphs), and handles transaction
+    management and patient history.
 
 ## 🔭Currently Working On
 
 - **GameElevate**: Platform designed to assess and enhance badminton player performance using strategic insights and predictions for rally outcomes with LSTM+Q learning algorithms.
+- **SHORTify**-An educational video summarizer that can generate automated notes from the video along with important screenshots of flow-diagrams or key-points+Doubt clearing chatbot based on the educational video.
 
 
 ## 👯 Looking to Collaborate On
@@ -28,8 +38,7 @@ I'm enthusiastic about collaborating on innovative projects in the realms of web
 
 - Python
 - Java
-- Oracle SQL
-- Oracle PL/SQL
+- Oracle
 - MySQL
 - Tableau
 - HTML, CSS
