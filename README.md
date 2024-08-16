@@ -6,13 +6,13 @@ I'm a passionate web developer and machine learning enthusiast with a keen inter
 ## 🔭 Worked On
 
 
--**Abnormal Sitting Posture Recognition using Skeletal Framework**:
+- **Abnormal Sitting Posture Recognition using Skeletal Framework**:
     Developed a real-time abnormal sitting posture recognizer using CNN with OpenPose-extracted skeletal features,
 achieving 92% accuracy.
--**Result Analysis & Evaluation Tool**:
+- **Result Analysis & Evaluation Tool**:
     Created an automated result analysis tool for the IT department of SSN that delivers summary reports, grade
 analysis, overall performance metrics, and NBA statistics from raw data provided.
--**Crop Disease Detection & Disease Severity Identification**:
+- **Crop Disease Detection & Disease Severity Identification**:
     Implemented a CNN-based model for crop disease classification with an accuracy of 94% and applied contour
 analysis to quantify disease spread percentage.
 - **MentorU**:
