@@ -23,8 +23,16 @@ I'm a passionate web developer and machine learning enthusiast with a keen inter
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piriya-dharshini)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piriya-dharshini&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Using HTML to create space between badges -->
+<div style="display: flex; gap: 20px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=piriya-dharshini" alt="Anurag's GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piriya-dharshini&layout=donut" alt="Top Langs" />
+  </a>
+</div>
+
 
 - **Abnormal Sitting Posture Recognition using Skeletal Framework**:
     Developed a real-time abnormal sitting posture recognizer using CNN with OpenPose-extracted skeletal features,
