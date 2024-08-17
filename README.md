@@ -22,7 +22,8 @@ I'm a passionate web developer and machine learning enthusiast with a keen inter
 ![GitHub Profile](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piriya-dharshini)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piriya-dharshini &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats]
+(https://github-readme-stats.vercel.app/api?username=piriya-dharshini&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## 🔭 Worked On
 
