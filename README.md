@@ -3,6 +3,13 @@
 
 I'm a passionate web developer and machine learning enthusiast with a keen interest in unraveling the intricacies of system design. I possess a robust skill set, including proficiency in various programming languages and technologies.
 
+https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white 
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black
+https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white
+
 ## 🔭 Worked On
 
 
@@ -33,16 +40,6 @@ analysis to quantify disease spread percentage.
 
 I'm enthusiastic about collaborating on innovative projects in the realms of web development and machine learning. If you have an exciting idea, don't hesitate to reach out!
 
-
-### 🛠️ Proficient in
-
-- Python
-- Java
-- Oracle
-- MySQL
-- Tableau
-- HTML, CSS
-- Flask
 
 ## 📫 How to Reach Me
 
