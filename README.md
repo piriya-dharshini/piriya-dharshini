@@ -24,6 +24,7 @@ I'm a passionate web developer and machine learning enthusiast with a keen inter
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piriya-dharshini)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piriya-dharshini&layout=compact)
 
 ## 🔭 Worked On
 
