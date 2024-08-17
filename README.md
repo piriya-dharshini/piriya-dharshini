@@ -21,6 +21,8 @@ I'm a passionate web developer and machine learning enthusiast with a keen inter
 ![GitHub Profile](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![GitHub Profile](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piriya-dharshini)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🔭 Worked On
 
 
