@@ -47,8 +47,6 @@ analysis to quantify disease spread percentage.
 ## 🔭Currently Working On
 
 - **GameElevate**: Platform designed to assess and enhance badminton player performance using strategic insights and predictions for rally outcomes with LSTM+Q learning algorithms.
-- **SHORTify**-An educational video summarizer that can generate automated notes from the video along with important screenshots of flow-diagrams or key-points+Doubt clearing chatbot based on the educational video.
-
 
 ## 👯 Looking to Collaborate On
 
