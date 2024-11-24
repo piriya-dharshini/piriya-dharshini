@@ -46,3 +46,5 @@ Currently, I’m passionate about Machine Learning and Data Science.
 
 - **GameElevate**: Platform designed to assess and enhance badminton player performance using strategic insights and predictions for rally outcomes with LSTM+Q learning algorithms.
 
+If you wish to be a chapter in my book of exploring life. 
+Contact me at:piriyadharshini.a@gmail.com
