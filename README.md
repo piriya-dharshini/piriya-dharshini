@@ -9,7 +9,7 @@ Loves the domain =(Initial Dislike ×Perspective Shift)+Effort
 
 This formula represents my journey of exploring various technical domains and serves as my mantra to maintain an adaptable mindset 🔭. 
 
-Currently, I’m passionate about Machine Learning and Data Science. 
+Currently, I’m passionate about Web development, Machine Learning and Data Science. 
 
 ## Skilled at
 ![GitHub Profile](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
