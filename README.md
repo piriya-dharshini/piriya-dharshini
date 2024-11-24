@@ -35,13 +35,13 @@ Currently, I’m passionate about Web development, Machine Learning and Data Sci
 
 ## Has Worked on
 
-- **Abnormal Sitting Posture Recognition using Skeletal Framework**:
+- **Abnormal Sitting Posture Recognition using Skeletal Framework**
 - **Educational Video based Q&A System**
-- **Result Analysis & Evaluation Tool**:
-- **Crop Disease Detection & Disease Severity Identification**:
-- **MentorU**:
-- **Garbage CAN**: 
-- **Integrated Clinic Management System (ICMS)**: 
+- **Result Analysis & Evaluation Tool**
+- **Crop Disease Detection & Disease Severity Identification**
+- **MentorU**
+- **Garbage CAN** 
+- **Integrated Clinic Management System (ICMS)**
 
 ## 🔭Currently Working On
 
