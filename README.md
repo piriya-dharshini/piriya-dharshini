@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=piriya-dharshini&color=green)
 
-![github-header-image](https://github.com/user-attachments/assets/ce5cf040-80b1-4314-9e54-cd5a9b924d96)
+![github-header-image (1)](https://github.com/user-attachments/assets/bd5693e7-23af-4f50-a513-b2ab7e1cb55d)
 
 ## Skilled at
 ![GitHub Profile](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
