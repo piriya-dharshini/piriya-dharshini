@@ -11,6 +11,7 @@ This formula represents my journey of exploring various technical domains and se
 
 Currently, I’m passionate about Machine Learning and Data Science. 
 
+##Skilled at
 ![GitHub Profile](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![GitHub Profile](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![GitHub Profile](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
