@@ -1,15 +1,6 @@
-# Hi there, I'm Piriyadharshini.A! 👋
 ![](https://komarev.com/ghpvc/?username=piriya-dharshini&color=green)
 
-Hi! I am Piriyadharshini. A, a Pre-final year Information Technology student from SSN College of Engineering. I’m a curious learner who enjoys discovering new things every day 📈.
-
-Mathematically speaking, 
-
-Loves the domain =(Initial Dislike ×Perspective Shift)+Effort
-
-This formula represents my journey of exploring various technical domains and serves as my mantra to maintain an adaptable mindset 🔭. 
-
-Currently, I’m passionate about Web development, Machine Learning and Data Science. 
+![github-header-image](https://github.com/user-attachments/assets/ce5cf040-80b1-4314-9e54-cd5a9b924d96)
 
 ## Skilled at
 ![GitHub Profile](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
