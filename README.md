@@ -7,10 +7,14 @@
 
 
 ## Machine Learning
-[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,sklearn,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,sklearn)](https://skillicons.dev)
 
 ## languages
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,c)](https://skillicons.dev)
+
+##  development tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,jupyter)](https://skillicons.dev)
+
 
 
 
