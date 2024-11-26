@@ -27,8 +27,7 @@
 ##  development tools
 <p align="center">
   <a href="https://skillicons.dev">
-                                                                                                                    
-                                                      <img src="https://skillicons.dev/icons?i=vscode,github,jupyter" />
+ <img src="https://skillicons.dev/icons?i=vscode,github,jupyter" />
   </a>
 </p>
 
