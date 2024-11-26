@@ -20,14 +20,16 @@
 ## languages
 <p align="center">
   <a href="https://skillicons.dev">
-  <t><img src="https://skillicons.dev/icons?i=py,mysql,c" /></t>
+  <img src="https://skillicons.dev/icons?i=py,mysql,c" />
   </a>
 </p>
 
 ##  development tools
 <p align="center">
   <a href="https://skillicons.dev">
+    <t>
     <img src="https://skillicons.dev/icons?i=vscode,github,jupyter" />
+    </t>
   </a>
 </p>
 
