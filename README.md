@@ -3,21 +3,33 @@
 ![github-header-image (1)](https://github.com/user-attachments/assets/bd5693e7-23af-4f50-a513-b2ab7e1cb55d)
 
 ## Web Development
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,django,fastapi,streamlit)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,flask,django,fastapi" />
+  </a>
+</p>
 
 ## Machine Learning
-[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,sklearn)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=opencv,pytorch,sklearn" />
+  </a>
+</p>
 
 ## languages
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,c)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,mysql,c" />
+  </a>
+</p>
 
 ##  development tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,jupyter)](https://skillicons.dev)
-
-
-
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,github,jupyter" />
+  </a>
+</p>
 
 
 ## Has Worked on
