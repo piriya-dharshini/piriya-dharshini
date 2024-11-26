@@ -2,11 +2,9 @@
 
 ![github-header-image (1)](https://github.com/user-attachments/assets/bd5693e7-23af-4f50-a513-b2ab7e1cb55d)
 
-## Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+## Web Development
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,django,fastapi,streamlit)](https://skillicons.dev)
 
-## Backend Development
-[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,django)](https://skillicons.dev)
 
 ## Machine Learning
 [![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,sklearn,)](https://skillicons.dev)
