@@ -31,9 +31,7 @@
   </a>
 </p>
 
-[![GitHub Streak](https://github.com/piriya-dharshini)](https://git.io/streak-stats)
-
-## Has Worked on
+[![GitHub Streak](https://streak-stats.demolab.com/?user=piriya-dharshini)](https://git.io/streak-stats)## Has Worked on
 
 - **Abnormal Sitting Posture Recognition using Skeletal Framework**
 - **Educational Video based Q&A System**
