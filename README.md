@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bd5693e7-23af-4f50-a513-b2ab7e1cb55d" alt="GitHub Header Image"/>
-</p>
-
-
-
+## Web Developement
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,flask,django,fastapi" />
@@ -31,9 +26,10 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=piriya-dharshini)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd5693e7-23af-4f50-a513-b2ab7e1cb55d" alt="GitHub Header Image"/>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piriya-dharshini&show_icons=true&theme=radical)
 
 
 ## Has Worked on
