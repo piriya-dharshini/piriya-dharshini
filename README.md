@@ -38,7 +38,6 @@
 - **Educational Video based Q&A System**
 - **Result Analysis & Evaluation Tool**
 - **Crop Disease Detection & Disease Severity Identification**
-- **MentorU**
 - **Garbage CAN** 
 - **Integrated Clinic Management System (ICMS)**
 
