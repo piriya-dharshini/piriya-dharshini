@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd5693e7-23af-4f50-a513-b2ab7e1cb55d" alt="GitHub Header Image"/>
+</p>
+
 ## Web Developement
 <p align="center">
   <a href="https://skillicons.dev">
@@ -29,7 +34,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bd5693e7-23af-4f50-a513-b2ab7e1cb55d" alt="GitHub Header Image"/>
 </p>
-
 
 
 ## Has Worked on
