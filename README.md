@@ -31,10 +31,7 @@
   </a>
 </p>
 
-<p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piriya-dharshini&show_icons=true&theme=radical)
-
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piriya-dharshini&show_icons=true&theme=radical)
 
 
 ## Has Worked on
