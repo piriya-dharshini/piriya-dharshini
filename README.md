@@ -2,9 +2,7 @@
 
 ![github-header-image (1)](https://github.com/user-attachments/assets/bd5693e7-23af-4f50-a513-b2ab7e1cb55d)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piriya-dharshini & show_icons=true&theme=transparent)
-## Web Development
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piriya-dharshini&show_icons=true&theme=radical)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,flask,django,fastapi" />
