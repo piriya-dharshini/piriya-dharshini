@@ -31,9 +31,6 @@
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piriya-dharshini&show_icons=true&theme=radical)
-
-
 ## Has Worked on
 
 - **Abnormal Sitting Posture Recognition using Skeletal Framework**
