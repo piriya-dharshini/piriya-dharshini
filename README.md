@@ -1,4 +1,3 @@
-<img width="1790" height="123" alt="image" src="https://github.com/user-attachments/assets/d528919e-ecfe-4bee-91d8-fcc585cb7732" />
 <p align="center"> 
   <img src="https://github.com/user-attachments/assets/bd5693e7-23af-4f50-a513-b2ab7e1cb55d" alt="GitHub Header Image"/>
 </p>
