@@ -49,7 +49,7 @@
 
 ### Term Sheet Validation using AI
 
-<img width="364" height="174" alt="Screenshot 2026-08-15 132419" src="https://github.com/user-attachments/assets/d68e48f3-6b99-46e9-b86d-6a452d3dbb29" />" 
+<img width="1892" height="807" alt="Screenshot 2026-08-15 132419" src="https://github.com/user-attachments/assets/d68e48f3-6b99-46e9-b86d-6a452d3dbb29" />" 
 
 [🔗 View Repository](https://github.com/piriya-dharshini/Hack-O-Hire-2025)
 
@@ -59,7 +59,7 @@
 
 ### VitaMeal:Multi-Agent System for Intelligent Nutrition Counselling using RAG-Based Agents**
 
-<img width="595" height="254" alt="image" src="https://github.com/user-attachments/assets/d52725e1-cca0-4673-8377-d5cdce7eaab7" />
+<img width="1892" height="807" alt="image" src="https://github.com/user-attachments/assets/d52725e1-cca0-4673-8377-d5cdce7eaab7" />
 
 [🔗 View Repository](https://github.com/piriya-dharshini/FYP)
 
