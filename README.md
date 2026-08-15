@@ -9,18 +9,17 @@
 - **VitaMeal: A Multi-Agent System for Intelligent Nutrition Counselling using RAG Based Agents.**
 
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 | Category | Technologies |
 |---|---|
 | **Programming Languages** | Python, Java, C, JavaScript, TypeScript, SQL |
 | **Web Development** | HTML, CSS, Tailwind CSS, Flask, Django, FastAPI, Flutter |
-| **Java Development** | Java, Spring Boot, Mockito |
+| **Java Development & Testing** | Spring Boot, Mockito |
 | **Machine Learning** | PyTorch, Scikit-learn, OpenCV, Neural Networks |
-| **Generative AI & LLMs** | OpenAI, LLaMA, Mistral, LangChain, LangGraph, MCP |
+| **Generative AI & LLMs** | OpenAI, LLaMA, Mistral, LangChain, LangGraph, MCP, DeepEval |
 | **Databases** | MySQL, PostgreSQL, MongoDB, Neo4j |
-| **API & Testing Tools** | Postman, Mockito |
-| **Development Tools** | VS Code, GitHub, Jupyter Notebook |
-
+| **API Tools** | Postman |
+| **Development Tools** | VS Code, IntelliJ IDEA, GitHub, Jupyter Notebook |
 
 
