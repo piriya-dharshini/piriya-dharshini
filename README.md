@@ -28,7 +28,7 @@
 
 ### Result Analysis & Evaluation Tool
 
-<img width="1892" height="807" alt="proj3" src="https://github.com/user-attachments/assets/cd82d017-e507-4826-b5c8-56da1e2f747c" />"
+<img width="1892" height="807" alt="proj3" src="https://github.com/user-attachments/assets/cd82d017-e507-4826-b5c8-56da1e2f747c" />
 
 [🔗 View Repository](https://github.com/piriya-dharshini/NBA_result_analysis)
 
