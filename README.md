@@ -57,7 +57,7 @@
 
 <td width="50%">
 
-### VitaMeal:Multi-Agent System for Intelligent Nutrition Counselling using RAG-Based Agents**
+### VitaMeal
 
 <img width="1892" height="807" alt="image" src="https://github.com/user-attachments/assets/d52725e1-cca0-4673-8377-d5cdce7eaab7" />
 
