@@ -80,7 +80,7 @@
 </tr>
 </table>
 
-## 🛠️ Technical Skills
+## <img src="https://cdn.simpleicons.org/codeproject" width="28" height="28" /> SkillSet
 
 | Category                       | Technologies                                                |
 | ------------------------------ | ----------------------------------------------------------- |
