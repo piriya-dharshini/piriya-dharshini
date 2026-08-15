@@ -1,10 +1,15 @@
+
+## <img src="https://cdn.simpleicons.org/aboutdotme" width="28" height="28" /> 
+
+By day, I look for patterns in code and teach machines to find them too. In the quieter hours, I look for rhythm, meaning, and stories in the world around me. Somewhere between logic and melody, I find my way of creating.
+
 ## <img src="https://cdn.simpleicons.org/codeproject" width="28" height="28" /> Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### Abnormal Sitting Posture Recognition using Skeletal Framework
+### Abnormal Sitting Posture Recognition 
 
 <img width="1892" height="807" alt="image" src="https://github.com/user-attachments/assets/0f70d41f-c225-460b-af7f-3f60e8c17b8d" />
 
