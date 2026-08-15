@@ -9,7 +9,7 @@
 - **VitaMeal: A Multi-Agent System for Intelligent Nutrition Counselling using RAG Based Agents.**
 
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 | Category | Technologies |
 |---|---|
