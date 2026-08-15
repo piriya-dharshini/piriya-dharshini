@@ -60,6 +60,7 @@
 ### VitaMeal:Multi-Agent System for Intelligent Nutrition Counselling using RAG-Based Agents**
 
 <img width="595" height="254" alt="image" src="https://github.com/user-attachments/assets/d52725e1-cca0-4673-8377-d5cdce7eaab7" />
+
 [🔗 View Repository](https://github.com/piriya-dharshini/FYP)
 
 </td>
