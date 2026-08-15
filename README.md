@@ -1,6 +1,3 @@
-<p align="center"> 
-  <img src="https://github.com/user-attachments/assets/bd5693e7-23af-4f50-a513-b2ab7e1cb55d" alt="GitHub Header Image"/>
-</p>
 
 ## Has Worked on
 
@@ -9,7 +6,7 @@
 - **Result Analysis & Evaluation Tool**
 - **Solar Panel Defect Detection using AI**
 - **Term sheet Validation using AI**
-- ****VitaMeal: A Multi-Agent System for Intelligent Nutrition Counselling using RAG Based Agents.**
+- **VitaMeal: A Multi-Agent System for Intelligent Nutrition Counselling using RAG Based Agents.**
 - 
 ## Web Developement
 <p align="center">
