@@ -62,7 +62,7 @@
 <img width="1892" height="807" alt="image" src="https://github.com/user-attachments/assets/d52725e1-cca0-4673-8377-d5cdce7eaab7" />
 
 <a href="https://github.com/piriya-dharshini/FYP">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 </td>
 </tr>
