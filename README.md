@@ -37,7 +37,7 @@
 <td width="50%">
 
 ### Solar Panel Defect Detection using AI
-<img width="1892" height="814" alt="Screenshot 2025-04-12 084910" src="https://github.com/user-attachments/assets/e62de306-205e-44f0-a7f0-2ac743028f26" />
+<img width="1892" height="807" alt="Screenshot 2025-04-12 084910" src="https://github.com/user-attachments/assets/e62de306-205e-44f0-a7f0-2ac743028f26" />
 
 [🔗 View Repository](https://github.com/piriya-dharshini/pvlead)
 
