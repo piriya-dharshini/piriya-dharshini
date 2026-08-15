@@ -6,7 +6,7 @@
 
 ### Abnormal Sitting Posture Recognition using Skeletal Framework
 
-<img width="652" height="285" alt="image" src="https://github.com/user-attachments/assets/0f70d41f-c225-460b-af7f-3f60e8c17b8d" />
+<img width="1892" height="807" alt="image" src="https://github.com/user-attachments/assets/0f70d41f-c225-460b-af7f-3f60e8c17b8d" />
 
 [🔗 View Repository](https://github.com/piriya-dharshini/Abnormal-Sitting-Posture-Recognition-using-Skeletal-Framework)
 
@@ -16,7 +16,7 @@
 
 ### RiseNShine: Educational Video-based Q&A System
 
-<img width="602" height="289" alt="image" src="https://github.com/user-attachments/assets/7310921a-7b90-4bf1-86b0-74a0e35fd9d0" />
+<img width="1892" height="807" alt="image" src="https://github.com/user-attachments/assets/7310921a-7b90-4bf1-86b0-74a0e35fd9d0" />
 
 [🔗 View Repository](https://github.com/piriya-dharshini/RiseNShine)
 
@@ -49,7 +49,7 @@
 
 ### Term Sheet Validation using AI
 
-<img width="1892" height="807" alt="Screenshot 2026-08-15 132419" src="https://github.com/user-attachments/assets/d68e48f3-6b99-46e9-b86d-6a452d3dbb29" />" 
+<img width="1892" height="807" alt="Screenshot 2026-08-15 132419" src="https://github.com/user-attachments/assets/d68e48f3-6b99-46e9-b86d-6a452d3dbb29" />
 
 [🔗 View Repository](https://github.com/piriya-dharshini/Hack-O-Hire-2025)
 
