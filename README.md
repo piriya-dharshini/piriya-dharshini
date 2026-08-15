@@ -7,12 +7,10 @@
 - **Abnormal Sitting Posture Recognition using Skeletal Framework**
 - **Educational Video based Q&A System**
 - **Result Analysis & Evaluation Tool**
-
-## 🔭Currently Working On
-
-- **GameElevate**: Platform designed to assess and enhance badminton player performance using strategic insights and predictions for rally outcomes with LSTM+Q learning algorithms.
-- **VitaMeal**:A Multi-Agent System for Intelligent Nutrition Counselling using RAG Based Agents.
-
+- **Solar Panel Defect Detection using AI**
+- **Term sheet Validation using AI**
+- ****VitaMeal: A Multi-Agent System for Intelligent Nutrition Counselling using RAG Based Agents.**
+- 
 ## Web Developement
 <p align="center">
   <a href="https://skillicons.dev">
