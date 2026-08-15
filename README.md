@@ -18,8 +18,7 @@
 
 ### RiseNShine: Educational Video-based Q&A System
 
-<img src="<img width="602" height="289" alt="image" src="https://github.com/user-attachments/assets/7310921a-7b90-4bf1-86b0-74a0e35fd9d0" />
-" width="100%">
+<img width="602" height="289" alt="image" src="https://github.com/user-attachments/assets/7310921a-7b90-4bf1-86b0-74a0e35fd9d0" />
 
 **Tech:** Python • VectorDB • Gemini • Langchain
 
