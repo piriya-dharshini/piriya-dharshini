@@ -6,7 +6,7 @@
 
 ### Abnormal-Sitting-Posture-Recognition-using-Skeletal-Framework
 
-<img width="652" height="285" alt="image" src="https://github.com/user-attachments/assets/6aba3094-f4f4-4ce1-8c6c-3abfcca24d6e" />
+<img width="652" height="285" alt="image" src="https://github.com/user-attachments/assets/0f70d41f-c225-460b-af7f-3f60e8c17b8d" />
 
 **Tech:** Python • tensorflow • CNNs
 
