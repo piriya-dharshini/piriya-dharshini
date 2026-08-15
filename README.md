@@ -14,8 +14,8 @@
 | Category | Technologies |
 |---|---|
 | **Programming Languages** | Python, Java, C, JavaScript, TypeScript, SQL |
-| **Web Development** | HTML, CSS, Tailwind CSS, Flask, Django, FastAPI, Flutter |
-| **Java Development & Testing** | Spring Boot, Mockito |
+| **Web Development** | HTML, CSS, Tailwind CSS, Flask, Django, FastAPI |
+| **Java Development & Testing** | Spring Boot, EJB |
 | **Machine Learning** | PyTorch, Scikit-learn, OpenCV, Neural Networks |
 | **Generative AI & LLMs** | OpenAI, LLaMA, Mistral, LangChain, LangGraph, MCP, DeepEval |
 | **Databases** | MySQL, PostgreSQL, MongoDB, Neo4j |
