@@ -20,7 +20,7 @@ By day, I look for patterns in code and teach machines to find them too. In the 
 
 <td width="50%">
 
-### RiseNShine: Educational Video-based Q&A System
+### Educational Video-based Q&A System
 
 <img width="1892" height="807" alt="image" src="https://github.com/user-attachments/assets/7310921a-7b90-4bf1-86b0-74a0e35fd9d0" />
 
